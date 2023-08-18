@@ -1,0 +1,51 @@
+
+        body{
+            background-color: rgb(251, 249, 251);
+        }
+        h2{
+            background-color: rgb(252, 255, 228);
+            color:rgb(247, 7, 7);
+            font-family: simsun
+        }
+        h3{
+            background-color: rgb(251, 251, 213);
+            color: rgb(0, 88, 252);
+            font-family: simsun
+        }
+        h4{
+            font-family: simsun
+        }
+        h5{
+            font-family: simsun
+        }
+        h6{
+            font-family: simsun
+        }
+        p{
+            font-family: simsun
+        }
+       .bara{
+        color: rgb(8, 91, 192);
+       }
+       .tyu-rippu{
+        color: rgb(2, 23, 255);
+       }
+       .hana{
+        color: rgb(234, 103, 251);
+       }
+       .kousaku{
+        color: rgb(108, 90, 21);
+       }
+       .e{
+        color: rgb(195, 55, 183);
+       }
+       .konnpyu-ta-{
+        color: rgb(102, 102, 250);
+       }
+       table{
+        text-align: right;
+       } 
+       h1{
+        font-size: 40px;
+        font-family: simsun
+       }
